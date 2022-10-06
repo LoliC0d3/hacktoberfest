@@ -14,3 +14,4 @@ https://throwbin.io/KMzDpxE
 https://www25.zippyshare.com/v/XiZEACAZ/file.html
 https://owasp.org/
 https://any.run/
+https://github.com/PowerScript/KatanaFramework
